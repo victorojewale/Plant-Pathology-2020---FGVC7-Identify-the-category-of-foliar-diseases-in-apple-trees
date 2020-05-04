@@ -3,4 +3,4 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 
 Multiple Convolutional NeuralNets were used(DenseNet, EfficientNet, EfficientNet NoisyStudent)...
 
-https://arxiv.org/abs/1608.06993(The paper on DenseNet)
+https://arxiv.org/abs/1608.06993  (The paper on DenseNet)
